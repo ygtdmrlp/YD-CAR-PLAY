@@ -1,0 +1,11 @@
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\bin\Debug\net8.0\YDCarPlay.Core.deps.json
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\bin\Debug\net8.0\YDCarPlay.Core.dll
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\bin\Debug\net8.0\YDCarPlay.Core.pdb
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\YDCarPlay.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\YDCarPlay.Core.AssemblyInfoInputs.cache
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\YDCarPlay.Core.AssemblyInfo.cs
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\YDCarPlay.Core.csproj.CoreCompileInputs.cache
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\YDCarPlay.Core.dll
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\refint\YDCarPlay.Core.dll
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\YDCarPlay.Core.pdb
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Core\obj\Debug\net8.0\ref\YDCarPlay.Core.dll

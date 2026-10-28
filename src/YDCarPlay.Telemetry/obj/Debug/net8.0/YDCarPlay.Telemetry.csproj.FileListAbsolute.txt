@@ -1,0 +1,15 @@
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\bin\Debug\net8.0\YDCarPlay.Telemetry.deps.json
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\bin\Debug\net8.0\YDCarPlay.Telemetry.dll
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\bin\Debug\net8.0\YDCarPlay.Telemetry.pdb
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\bin\Debug\net8.0\YDCarPlay.Core.dll
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\bin\Debug\net8.0\YDCarPlay.Core.pdb
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPlay.Telemetry.csproj.AssemblyReference.cache
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPlay.Telemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPlay.Telemetry.AssemblyInfoInputs.cache
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPlay.Telemetry.AssemblyInfo.cs
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPlay.Telemetry.csproj.CoreCompileInputs.cache
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPla.BC68CCA0.Up2Date
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPlay.Telemetry.dll
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\refint\YDCarPlay.Telemetry.dll
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\YDCarPlay.Telemetry.pdb
+C:\Users\ygtdm\OneDrive\Desktop\ETS2 YD CAR PLAY PROJEM\src\YDCarPlay.Telemetry\obj\Debug\net8.0\ref\YDCarPlay.Telemetry.dll

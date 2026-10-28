@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/YDCarPlay.App/YDCarPlay.App.csproj" />
+    <Project Path="src/YDCarPlay.Core/YDCarPlay.Core.csproj" />
+    <Project Path="src/YDCarPlay.Installer/YDCarPlay.Installer.csproj" />
+    <Project Path="src/YDCarPlay.Telemetry/YDCarPlay.Telemetry.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/YDCarPlay.Tests/YDCarPlay.Tests.csproj" />
+  </Folder>
+</Solution>

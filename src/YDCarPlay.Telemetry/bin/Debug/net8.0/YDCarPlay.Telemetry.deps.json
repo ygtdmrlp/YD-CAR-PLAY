@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "YDCarPlay.Telemetry/1.0.0": {
+        "dependencies": {
+          "YDCarPlay.Core": "1.0.0"
+        },
+        "runtime": {
+          "YDCarPlay.Telemetry.dll": {}
+        }
+      },
+      "YDCarPlay.Core/1.0.0": {
+        "runtime": {
+          "YDCarPlay.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YDCarPlay.Telemetry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YDCarPlay.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
